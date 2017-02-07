@@ -1,0 +1,93 @@
+
+.bar {
+  background-color: rgb(153, 204, 255);
+  margin: 0px;
+  border: none;
+  border-radius: 0;
+}
+.navbar-inverse .navbar-toggle {
+  border-color: rgb(66, 140, 215);
+}
+.navbar-inverse .navbar-toggle:hover {
+  background-color: rgb(66, 140, 215);
+  border-color:  rgb(255, 255, 255);
+}
+.navbar-inverse .navbar-brand {
+  color: rgb(0, 0, 0);
+}
+.navbar-inverse .navbar-brand:hover {
+  background-color: rgb(66, 140, 215);
+}
+.navbar-inverse .navbar-nav li a  {
+  color: rgb(0, 0, 0);
+  font-size: 20px;
+}
+.navbar-right li a {
+  color: rgb(0, 0, 0);
+  font-size: 20px;
+}
+
+.navbar-nav li:hover {
+  background-color: rgb(66, 140, 215);
+}
+.carousel-inner img {
+  width: 100%;
+  margin: auto;
+}
+.frontopacity {
+  opacity: 0.4;
+}
+.carousel-control {
+  color: rgb(153, 204, 255);
+}
+.carousel-caption {
+  padding: 1px;
+  margin-bottom: 5%;
+  font-size: 50px;
+  border: 1px solid rgb(255, 255, 255);
+  border-radius: 3px;
+  font-weight: 400;
+  color: black;
+  left: 40%;
+  right: 40%;
+  font-family: Lato, sans-serif;
+}
+.fronttext:hover {
+  box-shadow: 5px 0px 40px rgba(0,0,0, .2);
+}
+.appbutton {
+  background-color: rgb(153, 204, 255);
+  font-size: 20px;
+  border-radius: 0px;
+  border-color: 2px rgb(66, 140, 215);
+  padding-left: 15px;
+  padding-right: 15px;
+}
+.appbutton:hover {
+  background-color: rgb(66, 140, 215);
+  color: white;
+}
+button a {
+  color: rgb(0, 0, 0);
+  text-decoration: none;
+}
+button a:hover{
+  color: white;
+  text-decoration: none;
+}
+.col-md-6, .col-md-2, .col-md-10 {
+  padding-left: 0;
+  padding-right: 0;
+}
+.textcontainer {
+  background-color: rgb(66, 140, 215);
+  color: rgb(0, 0, 0);
+  padding: 10px;
+  font-size: 15px;
+  height: 100%;
+  overflow: scroll;
+}
+.deneraltext {
+  opacity 0.4;
+  color: rgb(0, 0, 0);
+}
