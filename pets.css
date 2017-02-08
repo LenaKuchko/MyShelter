@@ -5,3 +5,6 @@
 .caption:hover {
   color: white;
 }
+.img-responsive {
+  cursor: pointer;
+}
