@@ -91,3 +91,14 @@ button a:hover{
   opacity 0.4;
   color: rgb(0, 0, 0);
 }
+.address {
+  margin: 15px;
+  padding: 15px;
+  font-size: 17px;
+  font-weight:400;
+  color: rgb(66, 140, 215);
+}
+.address:hover {
+  cursor: pointer;
+  color: black;
+}
